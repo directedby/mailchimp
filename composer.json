@@ -1,0 +1,17 @@
+{
+	"name": "wikidi/mailchimp",
+	"description": "Modified version of http://apidocs.mailchimp.com/api/downloads/#php",
+	"keywords": [],
+	"homepage": "",
+	"type": "library",
+	"license": ["MIT"],
+	"authors": [
+		{
+			"name": "MailChimp",
+			"url": "http://apidocs.mailchimp.com/api/downloads/#php"
+		}
+	],
+	"autoload": {
+		"classmap": ["src/MCAPI.class.php"]
+	}
+}
